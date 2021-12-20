@@ -1,0 +1,9 @@
+/.idea/*
+/fdroid/archive/*
+/fdroid/metadata/*
+/fdroid/srclibs/*
+/fdroid/tmp/*
+/fdroid/config.py
+/fdroid/fdroid-icon.png
+/fdroid/FivePrayers.apk
+/fdroid/keystore.jks
