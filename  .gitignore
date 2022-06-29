@@ -3,8 +3,10 @@
 /fdroid/metadata/*
 /fdroid/srclibs/*
 /fdroid/tmp/*
-/fdroid/config.py
+/fdroid/config.yml
 /fdroid/fdroid-icon.png
 /fdroid/FivePrayers.apk
 /fdroid/keystore.jks
-/fdroid/config.yml
+/fdroid/config.py
+/fdroidserver-env/*
+/fdroid/repo/status/
